@@ -19,8 +19,8 @@ Example Output:
 8. List all characters' inventories by value
 9. Quit
     
-What would you like to do? 1
-What is the character's name? Alice the Awesome
-How many credits does the character have? 100
-Alice the Awesome added
+ What would you like to do? 1
+ What is the character's name? Alice the Awesome
+ How many credits does the character have? 100
+ Alice the Awesome added
 
