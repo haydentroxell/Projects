@@ -8,7 +8,8 @@ This project is a simple memory card game that uses a interactive GUI to allow t
 # Character Inventory.zip
 This project has the user to create characters and create items for characters. The user can sell items to other characters they have created as well as sell their items to a vendor. Also, the user can request to have all characters created listed back to them, items listed back to them in order of value, and request to have a characters inventory listed back in order of value. This program has three classes, a Character class, a Item class, and a main/driver class.
 Example Output:
-`1. Create a character
+`
+1. Create a character
 2. Character adds an item
 3. Character drops an item
 4. Character sells an item to a vendor
@@ -20,4 +21,5 @@ Example Output:
 What would you like to do? 1
 What is the character's name? Alice the Awesome
 How many credits does the character have? 100
-Alice the Awesome added`
+Alice the Awesome added
+`
