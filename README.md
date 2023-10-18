@@ -20,10 +20,7 @@ Example Output:
 9. Quit
     
 What would you like to do? 1
-
 What is the character's name? Alice the Awesome
-
 How many credits does the character have? 100
-
 Alice the Awesome added
 
